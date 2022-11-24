@@ -1,0 +1,2 @@
+# todolist
+ algoritmika layihe
